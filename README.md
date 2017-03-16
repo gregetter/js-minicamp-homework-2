@@ -4,11 +4,11 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* for loop
-	* && || !
-	* Array
-	* git
-	* GitHub
+	* for loop - a for loop is used to run a block of code over and over again.  It conisists of a starting point (var i = 0), an ending point (i < 10), and a rule telling i to add 1 for each loop.  Ex: The code will start at 0 and run through 9, adding 1 to i each time.
+	* && || ! - && will make sure that all of your statements are correct in order for code to run.  || will make sure at lease one statement is correct in order for code to run. ! will use the opposite logic to make a statement true.  Ex: !=== means "not equal".
+	* Array - a group of data that is related under one name. Separated by commas.
+	* git - software that allows you to simultaneously work on the same code as someone else.  It allows you to make changes to the original version of the code and submit those changes to that original version
+	* GitHub - a website that allows you to upload code that uses git to share with others on the website.  Github houses open-sourced projects and allows user to share work and work on projects together.
 
 
 2. Install git.  https://git-scm.com/downloads
